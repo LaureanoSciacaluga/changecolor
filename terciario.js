@@ -1,4 +1,4 @@
-const colores = ["red","yellow","blue"];
+const colores = ["gold","orangered","deeppink","darkslateblue","lightseagreen","limegreen"];
 const boton = document.getElementById("boton");
 const color = document.querySelector(".colorOfBack");
 
